@@ -1,0 +1,8 @@
+STEP 1: sudo npm init -y
+STEP 2: touch index.js .gitignore
+STEP 3: Git init
+STEP 4: sudo npm install apollo-server graphql mongoose
+
+
+
+Run : npm index.js (For Reload Ctr + Enter)
